@@ -76,7 +76,7 @@ If successful, you’ll see:
 
 Example sender configuration (from the code):
 ``` 
-from: '"Technanosoft Technologies" <talent@technanosoft.com>'
+from: '"ABC Technologies" <talent@abc.com>'
 ```
 
 ## ⚠️ Disclaimer & Ethical Use
